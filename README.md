@@ -1,67 +1,70 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Jyotiraditya Kumar Singh</h1>
+<h3 align="center">🚀 A Passionate Frontend Engineer | Java Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+## 🧠 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+- 🎯 Frontend Engineer focused on **building responsive and interactive UIs**
+- 💡 Passionate about **clean code, UX/UI design**, and **performance optimization**
+- 🛠️ Tech-savvy with a touch of **backend in Java **
+- 🌱 Currently deep diving into **Next.js** and **TypeScript**
+- 💬 Ask me about **React**, **JS internals**, or **Java backend integration**
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/jyotiraditya-singh-15b89132a) | [Email](jyotiraditya.singh333@gmail.com)
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🛠️ Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,git,tailwind,vscode&perline=6" />
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 📊 GitHub Stats
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🚀 Latest Projects
 
-###
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Portfolio Website](https://your-portfolio-link.com) | Personal website built with React & Tailwind | React, TailwindCSS |
+| [Todo App](https://github.com/your-username/todo-app) | Full-featured todo list with localStorage | React, CSS |
+| [Weather Dashboard](https://github.com/your-username/weather-app) | Weather info using OpenWeather API | HTML, JS, API |
+| [Java Blog API](https://github.com/your-username/blog-api) | RESTful Blog API using Spring Boot | Java, Spring Boot |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## ✨ Fun Facts
 
-<h3 align="left">🔥   My Stats :</h3>
+- 🎨 I love making youtube videos
+- 🧩 I enjoy solving coding puzzles
+- 🖥️ My favorite shortcut: `Ctrl + Shift + R` (hard reload 😄)
+- 🥡 Favorite stack: React + Tailwind + Java backend
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📫 Let’s Connect
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ Crafted with ❤️ by Jyotiraditya ✨</p>
+
